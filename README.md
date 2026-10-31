@@ -141,6 +141,8 @@ The dataset supports analysis of:
 
 **Domain:** Data Analytics and Data Visualisation
 
+> [!WARNING]
+> **Local Execution Required:** Please download or clone the website folder to your local machine to run the application. **This website is not deployed publicly due to payment and security constraints.**
 **Technology:** Python, Flask, Tableau Public, HTML, CSS and JavaScript
 
 ---
